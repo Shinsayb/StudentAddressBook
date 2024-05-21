@@ -1,0 +1,3 @@
+D:/Codes/ubuntuCodes/CLionProjects/project_adbook.c/cmake-build-debug/CMakeFiles/project_adbook_c.dir
+D:/Codes/ubuntuCodes/CLionProjects/project_adbook.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codes/ubuntuCodes/CLionProjects/project_adbook.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

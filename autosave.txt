@@ -1,0 +1,9 @@
+33333333,Park,3,333-333-333,College of Medicine
+99999999,Ryu,9,99-999-9999,Baseball
+11111111,Lee,1,1111-1111,Computer Science and Engineering
+22222222,Kim,2,2222-2222-2222,Electronic Engineering
+44444444,Alice,4,444-44-44,Wonderland
+55555555,Harry,5,5-5-5-5,Wizardary
+66666666,Frodo,6,6-66666-6,Ring Bearer
+88888888,Gerrard,8,88-88-8,Football
+77777777,Son,7,77-77-77-77,Football
